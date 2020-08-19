@@ -21,7 +21,7 @@ def get_pdf():
         },
         {
             "id": 3,
-            "name": "Furnicher",
+            "name": "Furniture",
             "img": "images/shirt.png",
             "desciption": "This is descriptions"
         },
